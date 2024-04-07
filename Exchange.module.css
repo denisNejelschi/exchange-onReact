@@ -1,0 +1,72 @@
+/* Exchange.module.css */
+
+.app {
+    margin: 50px;
+    gap: 10px;
+    font-family: "Sometype Mono", monospace;
+    border: solid 1px #ccc;
+    border-radius: 15px;
+    padding: 20px;    
+    background-color: #d2dae2;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-size: 20px;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  select,
+  input {
+    font-size: 20px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+    background-color: beige;
+  }
+  
+  button {
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #ef5777;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .history {
+    margin-top: 20px;
+  }
+  
+  .history h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .history ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .history li {
+    font-size: 16px;
+    margin-bottom: 5px;
+    color:#485460 ;
+  }
+  
